@@ -1,0 +1,5 @@
+# Archivos de entorno y logs
+*.log
+.env
+.vscode/
+node_modules/
